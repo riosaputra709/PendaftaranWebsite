@@ -1,0 +1,633 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebRegistration.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebRegistration.vtagaxyjpr.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\css\\loader.css",
+      "PackagePath": "staticwebassets\\css\\loader.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\css\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\css\\sweetalert2.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\css\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\css\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\css\\tabdesskripsi.css",
+      "PackagePath": "staticwebassets\\css\\tabdesskripsi.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._.DS_Store",
+      "PackagePath": "staticwebassets\\images\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._barcode-demo.png",
+      "PackagePath": "staticwebassets\\images\\._barcode-demo.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._chart-donut.png",
+      "PackagePath": "staticwebassets\\images\\._chart-donut.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._chart-lines.png",
+      "PackagePath": "staticwebassets\\images\\._chart-lines.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._chartimg.png",
+      "PackagePath": "staticwebassets\\images\\._chartimg.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._demo-attachmentwidget.png",
+      "PackagePath": "staticwebassets\\images\\._demo-attachmentwidget.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._icon-streamline-grap.svg",
+      "PackagePath": "staticwebassets\\images\\._icon-streamline-grap.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._ilustrasi-1.svg",
+      "PackagePath": "staticwebassets\\images\\._ilustrasi-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._ilustrasi-compliment.png",
+      "PackagePath": "staticwebassets\\images\\._ilustrasi-compliment.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._ilustrasi-notfound.png",
+      "PackagePath": "staticwebassets\\images\\._ilustrasi-notfound.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._img_edit.svg",
+      "PackagePath": "staticwebassets\\images\\._img_edit.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._img_notif_outline.svg",
+      "PackagePath": "staticwebassets\\images\\._img_notif_outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._img_rfi.svg",
+      "PackagePath": "staticwebassets\\images\\._img_rfi.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._img_rfi_light_blue_800 (1).svg",
+      "PackagePath": "staticwebassets\\images\\._img_rfi_light_blue_800 (1).svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._img_rfi_light_blue_800.svg",
+      "PackagePath": "staticwebassets\\images\\._img_rfi_light_blue_800.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._logo-apps-large.svg",
+      "PackagePath": "staticwebassets\\images\\._logo-apps-large.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._photo1.png",
+      "PackagePath": "staticwebassets\\images\\._photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._photo2.png",
+      "PackagePath": "staticwebassets\\images\\._photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._photo3.jpg",
+      "PackagePath": "staticwebassets\\images\\._photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._photo4.jpg",
+      "PackagePath": "staticwebassets\\images\\._photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\images\\._user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\._user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\images\\._user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\2okeoke.png",
+      "PackagePath": "staticwebassets\\images\\2okeoke.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\AKHLAK-outline.svg",
+      "PackagePath": "staticwebassets\\images\\AKHLAK-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\AKHLAK-solid.svg",
+      "PackagePath": "staticwebassets\\images\\AKHLAK-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\EPI-outline.svg",
+      "PackagePath": "staticwebassets\\images\\EPI-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\EPI-solid.svg",
+      "PackagePath": "staticwebassets\\images\\EPI-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\barcode-demo.png",
+      "PackagePath": "staticwebassets\\images\\barcode-demo.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\calendar-outline.svg",
+      "PackagePath": "staticwebassets\\images\\calendar-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\calendar-solid.svg",
+      "PackagePath": "staticwebassets\\images\\calendar-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\chart-donut.png",
+      "PackagePath": "staticwebassets\\images\\chart-donut.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\chart-lines.png",
+      "PackagePath": "staticwebassets\\images\\chart-lines.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\chartimg.png",
+      "PackagePath": "staticwebassets\\images\\chartimg.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\demo-attachmentwidget.png",
+      "PackagePath": "staticwebassets\\images\\demo-attachmentwidget.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\disk.png",
+      "PackagePath": "staticwebassets\\images\\disk.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\header.png",
+      "PackagePath": "staticwebassets\\images\\header.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\home-outline.svg",
+      "PackagePath": "staticwebassets\\images\\home-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\home-solid.svg",
+      "PackagePath": "staticwebassets\\images\\home-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-PDF-file-solid.svg",
+      "PackagePath": "staticwebassets\\images\\icon-PDF-file-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-add-task.svg",
+      "PackagePath": "staticwebassets\\images\\icon-add-task.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-arrow-down.svg",
+      "PackagePath": "staticwebassets\\images\\icon-arrow-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-arrow-up-doc.svg",
+      "PackagePath": "staticwebassets\\images\\icon-arrow-up-doc.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-contract-sign.svg",
+      "PackagePath": "staticwebassets\\images\\icon-contract-sign.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-dashboard-clarification.svg",
+      "PackagePath": "staticwebassets\\images\\icon-dashboard-clarification.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-download-cloud.svg",
+      "PackagePath": "staticwebassets\\images\\icon-download-cloud.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-form-outline.svg",
+      "PackagePath": "staticwebassets\\images\\icon-form-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-inbox.svg",
+      "PackagePath": "staticwebassets\\images\\icon-inbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-outline-question-answer.svg",
+      "PackagePath": "staticwebassets\\images\\icon-outline-question-answer.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-outline-upload-file.svg",
+      "PackagePath": "staticwebassets\\images\\icon-outline-upload-file.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-send-outline.svg",
+      "PackagePath": "staticwebassets\\images\\icon-send-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-streamline-grap.svg",
+      "PackagePath": "staticwebassets\\images\\icon-streamline-grap.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-unread-inbox.svg",
+      "PackagePath": "staticwebassets\\images\\icon-unread-inbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\icon-upload-file-solid.svg",
+      "PackagePath": "staticwebassets\\images\\icon-upload-file-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\ilustrasi-1.svg",
+      "PackagePath": "staticwebassets\\images\\ilustrasi-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\ilustrasi-compliment.png",
+      "PackagePath": "staticwebassets\\images\\ilustrasi-compliment.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\ilustrasi-notfound.png",
+      "PackagePath": "staticwebassets\\images\\ilustrasi-notfound.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\img_edit.svg",
+      "PackagePath": "staticwebassets\\images\\img_edit.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\img_notif_outline.svg",
+      "PackagePath": "staticwebassets\\images\\img_notif_outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\img_rfi.svg",
+      "PackagePath": "staticwebassets\\images\\img_rfi.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\img_rfi_light_blue_800 (1).svg",
+      "PackagePath": "staticwebassets\\images\\img_rfi_light_blue_800 (1).svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\img_rfi_light_blue_800.svg",
+      "PackagePath": "staticwebassets\\images\\img_rfi_light_blue_800.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\kotakkotak.jpg",
+      "PackagePath": "staticwebassets\\images\\kotakkotak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\linesna.png",
+      "PackagePath": "staticwebassets\\images\\linesna.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\logo-apps-large.svg",
+      "PackagePath": "staticwebassets\\images\\logo-apps-large.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\logo-pertamina-icon.svg",
+      "PackagePath": "staticwebassets\\images\\logo-pertamina-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\okeoke2.jpg",
+      "PackagePath": "staticwebassets\\images\\okeoke2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\operation-outline.svg",
+      "PackagePath": "staticwebassets\\images\\operation-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\operation-solid.svg",
+      "PackagePath": "staticwebassets\\images\\operation-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\photo1.png",
+      "PackagePath": "staticwebassets\\images\\photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\photo2.png",
+      "PackagePath": "staticwebassets\\images\\photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\photo3.jpg",
+      "PackagePath": "staticwebassets\\images\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\photo4.jpg",
+      "PackagePath": "staticwebassets\\images\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\secretary-outline.svg",
+      "PackagePath": "staticwebassets\\images\\secretary-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\secretary-solid.svg",
+      "PackagePath": "staticwebassets\\images\\secretary-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\send.png",
+      "PackagePath": "staticwebassets\\images\\send.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\statistic-outline.svg",
+      "PackagePath": "staticwebassets\\images\\statistic-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\statistic-solid.svg",
+      "PackagePath": "staticwebassets\\images\\statistic-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\images\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\images\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\workpackage-outline.svg",
+      "PackagePath": "staticwebassets\\images\\workpackage-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\workpackage-solid.svg",
+      "PackagePath": "staticwebassets\\images\\workpackage-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\images\\ww.png",
+      "PackagePath": "staticwebassets\\images\\ww.png"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\js\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\js\\sweetalert2.all.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\js\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\js\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\js\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\js\\sweetalert2.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\js\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\js\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riosa\\source\\repos\\PROGRAM WEBSITE\\TesDigify\\WebRegistration\\WebRegistration\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebRegistration.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebRegistration.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebRegistration.props",
+      "PackagePath": "build\\WebRegistration.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebRegistration.props",
+      "PackagePath": "buildMultiTargeting\\WebRegistration.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebRegistration.props",
+      "PackagePath": "buildTransitive\\WebRegistration.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

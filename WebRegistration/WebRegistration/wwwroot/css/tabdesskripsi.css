@@ -1,0 +1,81 @@
+﻿*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+/* Core styles/functionality */
+.tab {
+    position: relative;
+    color: #e5f3ff;
+    border: 1px solid;
+    border-radius: 0.5rem;
+    margin: -9px;
+}
+
+    .tab input {
+        position: absolute;
+        opacity: 0;
+        z-index: -1;
+    }
+
+.tab__content {
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.35s;
+}
+
+.tab input:checked ~ .tab__content {
+    max-height: 55rem;
+    background: #175e9c;
+    color: white;
+}
+
+/* Visual styles */
+.accordion {
+    color: #006cb8;
+    font-size: 15px;
+    overflow: hidden;
+}
+
+.tab__label,
+.tab__close {
+    display: flex;
+    color: white;
+    background: #227093;
+    cursor: pointer;
+}
+
+.tab__label {
+    justify-content: space-between;
+    padding: 13px;
+    background: white;
+    color: #66a7d4;
+}
+
+    .tab__label::after {
+        content: "\276F";
+        width: 1em;
+        height: 1em;
+        text-align: center;
+        transform: rotate(90deg);
+        transition: all 0.35s;
+    }
+
+.tab input:checked + .tab__label::after {
+    transform: rotate(270deg);
+}
+
+.tab__content p {
+    margin: 0;
+    padding: 1rem;
+}
+
+.tab__close {
+    justify-content: flex-end;
+    font-size: 0.75rem;
+}
+
+
+/* Arrow animation */
+.tab input:not(:checked) + .tab__label:hover::after {
+    animation: bounce .5s infinite;
+}
