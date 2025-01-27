@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Xc5dDNG3664NCGBPoIochuH9pY3Zu1gO2CDjXNZ1BqA=",
+  "Source": "APIRegistration",
+  "BasePath": "_content/APIRegistration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
